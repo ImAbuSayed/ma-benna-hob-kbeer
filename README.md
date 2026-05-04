@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي من عمق الروح
+> أنتَ شفائي وأنتَ الدليل
+> بين يديكَ تشفى الجروح
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
