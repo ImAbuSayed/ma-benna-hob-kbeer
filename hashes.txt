@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma Benna Hob Kbeer
+
+This log tracks the cryptographic history and versioning for the song **Ma Benna Hob Kbeer** (ma-benna-hob-kbeer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:07:37.752943 | `v1` | `3c598b05f1ac72db141efe26c15b3e68836e99e0b6c3ae7dc9d82b49513cae1d` | `2569c885eeb22d97f484631b8dc8ab883ad53d1caaadcfb936d3066cfe36cede` | `2026-05-08_ma-benna-hob-kbeer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
